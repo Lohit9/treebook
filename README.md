@@ -1,2 +1,2 @@
 #Treebook
-Simple ruby on rails app 
+Simple ruby on rails app. 
